@@ -14,7 +14,7 @@ npm install
 npm run dev
 
 Після запуску:
-- сервер: http://localhost:5000
+- сервер: http://localhost:5001
 - клієнт: http://localhost:5173
 
 Що є в проекті:
